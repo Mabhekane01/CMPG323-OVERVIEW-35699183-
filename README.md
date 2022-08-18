@@ -7,7 +7,7 @@
 5. CMPG323PROJECTO5 for project05
 ### Gitignore file
 files which contains sensitive data, System-specific files, Vscode workspaces, Security and API keys/secrets will be sotred in gitignore file
-#### Secuering credantials
+#### Securing credentials
 the credentials will be stored in a seperate file like JASON and it will not be committed here in github but instead will use gitignore file aavaiable to store 
 database password, API keys, and many more private imformation that i may not want to be seen by other people
 ##### Branching strategy 
