@@ -1,0 +1,7 @@
+# CMPG323-OVERVIEW-35699183-
+##Repositories to be created
+1. CMPG323PROJECTO1 for project01
+2. CMPG323PROJECTO2 for project02
+3. CMPG323PROJECTO3 for project03
+4. CMPG323PROJECTO4 for project04
+5. CMPG323PROJECTO5 for project05
